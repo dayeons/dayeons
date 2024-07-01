@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=dayeons%20github&textBg=false&fontSize=40&fontAlignY=34">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=dayeons%20github&textBg=false&fontSize=40&fontAlignY=38">
   <h3>✨ Tech Stack</h3>
   <div>
     <img src="https://img.shields.io/badge/Vue-4fc08d.svg?style=flat&logo=vue.js&logoColor=fff">&nbsp
