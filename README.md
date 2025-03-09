@@ -15,7 +15,6 @@
   <div>
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=20232a" />&nbsp
     <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" />&nbsp
   </div>
   <br>
   <h3>🛠 Tools</h3>
