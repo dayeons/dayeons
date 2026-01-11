@@ -1,41 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=dayeons%20github&textBg=false&fontSize=40&fontAlignY=38">
-  <h3>✨ Tech Stack</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Vue-4fc08d.svg?style=flat&logo=vue.js&logoColor=fff">&nbsp
-    <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=61DAFB" />&nbsp
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=20232a" />&nbsp
-    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat&logo=html5&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=flat&logo=css3&logoColor=white" />&nbsp
-  </div>
-  <br>
-  <h3>📚 Studying</h3>
-  <div>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=20232a" />&nbsp
-    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white" />&nbsp
-  </div>
-  <br>
-  <h3>🛠 Tools</h3>
-  <div>
-    <img src="https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/subversion-809CC9.svg?style=flat&logo=subversion&logoColor=white" />&nbsp
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black" />&nbsp
-    <img src="https://img.shields.io/badge/jira-0052CC.svg?style=flat&logo=jira&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/confluence-172B4D.svg?style=flat&logo=confluence&logoColor=white" />&nbsp
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=flat&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
-  </div>
-  <br>
-  <div>
-    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-    <img src="https://img.shields.io/badge/gulp-CF4647.svg?style=flat&logo=gulp&logoColor=white" />&nbsp
-  </div>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=dayeon's%20github&textBg=false&fontSize=40&fontAlignY=38&animation=fadeIn">
 
+  <h3>👋 Hello, I'm Dayeon!</h3>
+  <p>새로운 기술을 학습하고 공유하는 것을 즐기는 프론트엔드 개발자입니다.</p>
+  
+  <br>
+
+  <h3>✨ Tech Stack</h3>
+  <p>주로 사용하는 기술들입니다.</p>
+  <img src="https://img.shields.io/badge/Vue.js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+  <br><br>
+
+  <h3>🛠 Tools & Collaboration</h3>
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white">
+
+  <br><br>
+
+  <h3>📊 GitHub Stats</h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=본인계정ID&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인계정ID&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </div>
+
+  <br>
+
+  <h3>📫 Contact Me</h3>
+  <a href="mailto:이메일주소@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="본인블로그주소"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+</div>
