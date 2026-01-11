@@ -34,13 +34,13 @@
 
   <h3>📊 GitHub Stats</h3>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=본인계정ID&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인계정ID&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dy7326&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dy7326&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </div>
 
   <br>
 
   <h3>📫 Contact Me</h3>
   <a href="mailto:이메일주소@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="본인블로그주소"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+  
 </div>
