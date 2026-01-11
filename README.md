@@ -1,4 +1,4 @@
-<div align="center">
+8<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=dayeon's%20github&textBg=false&fontSize=40&fontAlignY=38&animation=fadeIn">
 
   <h3>👋 Hello, I'm Dayeon!</h3>
@@ -34,8 +34,8 @@
 
   <h3>📊 GitHub Stats</h3>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dayeons&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayeons&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dy7326&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dy7326&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </div>
 
   <br>
