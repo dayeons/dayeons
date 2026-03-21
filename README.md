@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=dayeon's%20github&textBg=false&fontSize=40&fontAlignY=38">
-
-  <br>
-
-  <h3>👋 안녕하세요, 프론트엔드 개발자 Dayeon입니다.</h3>
+<div>
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fdayeons?color=red&label=hits&size=small" alt="hits" /></a>
+  <hr>
+  <h3>👋 Hello World!</h3>
   <p>기록하고 성장하며, 사용자 경험을 고민하는 개발을 지향합니다.</p>
 
   <br>
@@ -32,10 +30,4 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
 
   <br><br>
-
-  <h3>📫 Contact</h3>
-  <p>
-    <a href="mailto:당신의이메일@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
- 
-  </p>
 </div>
