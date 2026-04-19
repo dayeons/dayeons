@@ -30,4 +30,12 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
 
   <br><br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dayeons&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/dayeons?pet-id=831367536099439950"
+    width="600"
+    height="120"
+  />
+</a>
+  
 </div>
