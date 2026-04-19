@@ -1,10 +1,6 @@
 <div>
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fdayeons?color=red&label=hits&size=small" alt="hits" /></a>
-  <hr>
-  <h3>👋 Hello World!</h3>
-  <p>기록하고 성장하며, 사용자 경험을 고민하는 개발을 지향합니다.</p>
 
-  <br>
 
   <h3>✨ Tech Stack</h3>
   <img src="https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white">
